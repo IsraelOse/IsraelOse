@@ -6,7 +6,7 @@ I build end-to-end analytics work: cleaning messy data, modelling it, and shippi
 
 - Studying: Master of Data Analytics, University of Niagara Falls Canada
 - Foundations: BSc Banking & Finance, Diploma in Financial Analysis
-- Interests: predictive modelling, business intelligence, quantitative / algorithmic trading
+- Interests: predictive modelling, business intelligence, and quantitative analysis
 
 ### Featured projects
 | Project | What it is | Stack |
@@ -20,7 +20,7 @@ I build end-to-end analytics work: cleaning messy data, modelling it, and shippi
 **Languages & data:** Python · R · SQL · DAX
 **ML & analysis:** scikit-learn · XGBoost · pandas · regression · clustering
 **BI & reporting:** Power BI · dimensional modelling · data visualization
-**Also:** MQL5 (algorithmic trading) · Git
+**Workflow:** Git · Jupyter · reproducible pipelines
 
 ### Currently
 Working through the Master of Data Analytics program and building out a portfolio of analytics, ML, and BI projects — see the pinned repositories below.
